@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+checkpoints/
+logs/
+datasets/
+outputs/
+cache/
+tmp/
+
+.idea/
