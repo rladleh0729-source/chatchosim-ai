@@ -3,8 +3,6 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-checkpoints/
 logs/
 datasets/
 outputs/
